@@ -12,9 +12,11 @@ Gdy dojdzie do kolizji główny zmienia kolor
 
 
 `kolizja`
+
 ![main page](./screens/collision.png)
 
 
 `brak kolizji`
+
 ![main page](./screens/nocollision.png)
 
